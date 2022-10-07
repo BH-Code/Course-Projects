@@ -1,1 +1,1 @@
-# Basic-Wallets
+Basic projects within course
