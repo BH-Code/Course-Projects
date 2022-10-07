@@ -10,7 +10,7 @@ contract SampleWallet {
     mapping(address => bool) public isAllowedToSend;
 
     mapping(address => bool) public guardian;
-    address payable nextOwner;
+    address payable nextOwner;h
     uint guardiansResetCount;
     uint public constant confirmationsFromGuardiansForReset = 3;
 
